@@ -1,5 +1,5 @@
 let footer=document.querySelector(".footer")
 
 footer.innerHTML = `
-<p>hola soy footer</p>
+<p>jacalderon@scl.edu.gt</p>
 `
